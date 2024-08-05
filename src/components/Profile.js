@@ -6,7 +6,7 @@ import defaultImage from '../assets/profile1.png';
 const Profile = ({ navigateTo }) => {
   const [data, setData] = useState({});
   const [isEditing, setIsEditing] = useState(false);
-  const [image, setImage] = useState(null);
+  const [setImage] = useState(null);
   const [imagePreview, setImagePreview] = useState(defaultImage);
 
   useEffect(() => {
