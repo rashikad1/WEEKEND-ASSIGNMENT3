@@ -1,0 +1,130 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f8f2ec;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.header {
+  width: 100%;
+  background-color: #ded4c8;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 24px;
+  color: #333;
+}
+
+.contact-us {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+}
+
+.contact-us img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+button{
+  width: 100px;
+  border-radius: 10px;
+}
+
+.main-content {
+  display: flex;
+  align-items: center;
+  margin: 30px 0;
+}
+
+.main-content img {
+  width: 200px;
+  height: 250px;
+  margin-top: 10px;
+}
+
+.main-content h2 {
+  font-size: 22px;
+  color: #555;
+  margin: 10px 0 20px;
+}
+
+.featured-products {
+  width: 90%;
+  max-width: 1200px;
+  margin: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.featured-products h2 {
+  margin-bottom: 20px;
+  font-size: 20px;
+  color: #333;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 20px;
+}
+
+.product-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #fafafa;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.product-item img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.product-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.pagination a {
+  margin: 0 15px;
+  color: #c77d7d;
+  text-decoration: none;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.pagination a:hover {
+  text-decoration: underline;
+}
+
+.pagination a.active {
+  font-weight: bold;
+  color: #000;
+  text-decoration: underline;
+}

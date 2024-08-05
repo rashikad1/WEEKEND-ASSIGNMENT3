@@ -1,0 +1,91 @@
+.description-container {
+    font-family: 'Arial, sans-serif';
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+  }
+  .description-container .header{
+    width: auto;
+  }
+  
+  .contact-us {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .contact-us span {
+    margin-right: 10px;
+    font-size: 16px;
+  }
+  
+  .contact-us img {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+  }
+  
+  .description-content {
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .description-content h2 {
+    color: #333;
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .description-content img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 20px auto;
+    border-radius: 10px;
+  }
+  
+  .care-guide {
+    background-color: #e8f5e9;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .care-guide h3 {
+    margin-top: 0;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .care-guide p {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .description-text {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .description-text h3 {
+    margin-top: 0;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .description-text p {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #555;
+  }
+  
+
+  
