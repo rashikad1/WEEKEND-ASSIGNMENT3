@@ -1,0 +1,136 @@
+.profile-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: #f8f2ec;
+}
+
+.profile-card {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  width: 400px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.profile-header {
+  position: fixed;
+  width: 100%;
+  background-color: #ded4c8;
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  align-content: center;
+  justify-content: space-between;
+  padding: 15px 30px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.profile-header h1 {
+  margin: 0;
+  font-size: 24px;
+  color: #333;
+}
+
+.profile-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  margin: 30px 0;
+}
+.profile-card{
+  margin-top: 100px;
+
+}
+button{
+  font-size: small;
+  height: 35px;
+  width: 140px;
+  color: #ddcc80;
+  background-color: #333;
+}
+
+.profile-picture {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.profile-picture img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-left: 80%;
+}
+
+
+
+.profile-card header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.profile-card header img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.profile-card h2 {
+  font-size: 1.5rem;
+  margin: 0;
+  color: #333;
+}
+
+.profile-card .profile-field {
+  margin-bottom: 15px;
+}
+
+.profile-card .profile-field label {
+  display: block;
+  font-weight: bold;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+.profile-card .profile-field input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.edit-link {
+  color: #00f;
+  cursor: pointer;
+  text-decoration: underline;
+  font-size: 0.8rem;
+  margin-left: 5px;
+}
+
+.edit-link:hover {
+  text-decoration: none;
+}
+button {
+  background-color: #949089;
+  color: rgb(8, 8, 8);
+  height: 40px;
+  border-color: #333;
+  cursor: pointer;
+  font-size: 10px;
+  display: block;
+  margin: 20px auto 0;
+  width: 150px;
+  border-radius: 20px;
+}
+
+button:hover {
+  background-color: #f5f3f1;
+}

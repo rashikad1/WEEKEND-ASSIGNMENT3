@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "password": "password123",
+      "phoneNumber": "123-456-7890",
+      "address": "123 Main St",
+      "state": "CA",
+      "zipCode": "90001",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "password": "password456",
+      "phoneNumber": "987-654-3210",
+      "address": "456 Elm St",
+      "state": "NY",
+      "zipCode": "10001",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "password": "adminpass",
+      "phoneNumber": "555-555-5555",
+      "address": "789 Oak St",
+      "state": "TX",
+      "zipCode": "73301",
+      "role": "admin"
+    }
+  ]
+}

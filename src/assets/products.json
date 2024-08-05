@@ -1,0 +1,185 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tree 1",
+      "image": "image1.jpg",
+        "water": "Allow the soil to dry out completely before watering.",
+        "light": "Bright indirect light environments.",
+        "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering.",
+      "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets."
+    },
+    {
+      "id": 2,
+      "name": "Tree 2",
+      "image": "image2.png",
+        "water": "Keep the soil moist but not waterlogged.",
+        "light": "Partial shade to full sun.",
+        "tips": "Prune regularly to maintain shape.",
+      "description": "A popular ornamental tree known for its lush foliage and hardy nature."
+    },
+    {
+      "id": 3,
+      "name": "Tree 3",
+      "image": "image3.png",
+        "water": "Water when the top inch of soil feels dry.",
+        "light": "Full sun to partial shade.",
+        "tips": "Fertilize monthly during the growing season.",
+      "description": "This tree is well-suited for indoor and outdoor planting, adding greenery to any space."
+    },
+    {
+      "id": 4,
+      "name": "Tree 4",
+      "image": "image4.png",
+        "water": "Keep the soil evenly moist.",
+        "light": "Indirect light.",
+        "tips": "Rotate the plant occasionally to ensure even growth.",
+      "description": "A versatile tree that can thrive in various environments with minimal care."
+    },
+    {
+      "id": 5,
+      "name": "Plant 1",
+      "image": "image5.png",
+        "water": "Water sparingly, allow the soil to dry between waterings.",
+        "light": "Low to medium light.",
+        "tips": "Wipe leaves with a damp cloth to remove dust.",
+      "description": "A small, compact plant ideal for desks or small spaces."
+    },
+    {
+      "id": 6,
+      "name": "Plant 2",
+      "image": "image6.png",
+        "water": "Maintain consistent moisture.",
+        "light": "Bright, indirect light.",
+        "tips": "Mist regularly to increase humidity.",
+      "description": "A vibrant plant that adds a pop of color to any room."
+    },
+    {
+      "id": 7,
+      "name": "Plant 3",
+      "image": "image7.png",
+        "water": "Water when the top 2 inches of soil are dry.",
+        "light": "Indirect sunlight.",
+        "tips": "Use a balanced fertilizer monthly.",
+      "description": "This plant features lush green leaves and is perfect for indoor decor."
+    },
+    {
+      "id": 8,
+      "name": "Plant 4",
+      "image": "image8.png",
+        "water": "Water deeply but infrequently.",
+        "light": "Partial to full sun.",
+        "tips": "Trim dead leaves to encourage new growth.",
+      "description": "A hardy plant that can thrive in a variety of light conditions."
+    },
+    {
+      "id": 9,
+      "name": "Tray",
+      "image": "image9.png",
+        "water": "N/A",
+        "light": "N/A",
+        "tips": "Use to hold small plants or gardening tools.",
+      "description": "A wooden tray perfect for organizing your gardening essentials."
+    },
+    {
+      "id": 10,
+      "name": "Soil 1",
+      "image": "image10.png",
+        "water": "Ensure soil is moist before planting.",
+        "light": "N/A",
+        "tips": "Mix with compost for added nutrients.",
+      "description": "High-quality soil ideal for a variety of plants."
+    },
+    {
+      "id": 11,
+      "name": "Soil 2",
+      "image": "image11.png",
+        "water": "Water thoroughly after planting.",
+        "light": "N/A",
+        "tips": "Great for container gardening.",
+      "description": "Organic soil blend perfect for pots and containers."
+    },
+    {
+      "id": 12,
+      "name": "Spade",
+      "image": "image12.png",
+        "water": "N/A",
+        "light": "N/A",
+        "tips": "Clean after use to prevent rust.",
+      "description": "A durable spade for all your gardening needs."
+    },
+    {
+      "id": 13,
+      "name": "Duck 1",
+      "image": "image13.png",
+        "water": "N/A",
+        "light": "N/A",
+        "tips": "Place in decorative pots for a whimsical touch.",
+      "description": "A cute duck ornament to add charm to your garden."
+    },
+    {
+      "id": 14,
+      "name": "Duck 2",
+      "image": "image14.png",
+        "water": "N/A",
+        "light": "N/A",
+        "tips": "Use as a centerpiece in plant displays.",
+      "description": "A decorative duck that brings a playful element to your space."
+    },
+    {
+      "id": 15,
+      "name": "Duck 3",
+      "image": "image14-1.png",
+        "water": "N/A",
+        "light": "N/A",
+        "tips": "Perfect for indoor and outdoor use.",
+      "description": "A delightful duck figurine to enhance your garden's aesthetic."
+    },
+    {
+      "id": 16,
+      "name": "Duck 4",
+      "image": "image15.png",
+        "water": "N/A",
+        "light": "N/A",
+        "tips": "Combine with other ornaments for a themed display.",
+      "description": "An adorable duck decoration to brighten up any plant arrangement."
+    },
+    {
+      "id": 17,
+      "name": "Pot 1",
+      "image": "image16.png",
+        "water": "N/A",
+        "light": "N/A",
+        "tips": "Ensure proper drainage to avoid waterlogging.",
+      "description": "A sleek, modern pot perfect for indoor plants."
+    },
+    {
+      "id": 18,
+      "name": "Pot 2",
+      "image": "image17.png",
+        "water": "N/A",
+        "light": "N/A",
+        "tips": "Ideal for small to medium plants.",
+      "description": "A stylish pot that complements any decor."
+    },
+    {
+      "id": 19,
+      "name": "Pot 3",
+      "image": "image18.png",
+        "water": "N/A",
+        "light": "N/A",
+        "tips": "Use with a saucer to catch excess water.",
+      "description": "A durable pot designed for both indoor and outdoor use."
+    },
+    {
+      "id": 20,
+      "name": "Pot 4",
+      "image": "image19.png",
+        "water": "N/A",
+        "light": "N/A",
+        "tips": "Perfect for succulents and cacti.",
+      "description": "A charming pot that adds a touch of elegance to any space."
+    }
+  ]
+}
