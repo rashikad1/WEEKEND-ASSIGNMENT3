@@ -41,7 +41,7 @@ const Home = ({ navigateTo }) => {
             <div
               key={index}
               className="product-item"
-              onClick={() => navigateTo('description', product.id)}
+              onClick={() => navigateTo('description', product)}
             >
               <img src={product.image} alt={product.name} />
               <span>{product.name}</span>

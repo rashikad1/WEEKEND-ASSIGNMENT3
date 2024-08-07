@@ -6,7 +6,7 @@ import defaultImage from '../assets/profile1.png';
 const Profile = ({ navigateTo }) => {
   const [data, setData] = useState({});
   const [isEditing, setIsEditing] = useState(false);
-  const [setImage] = useState(null);
+  const [image, setImage] = useState(null);
   const [imagePreview, setImagePreview] = useState(defaultImage);
 
   useEffect(() => {
@@ -31,7 +31,10 @@ const Profile = ({ navigateTo }) => {
   const handleSaveClick = () => {
     setIsEditing(false);
     console.log('Updated Profile Data:', data);
+    console.log('Image to upload:', image);
   };
+
+  
 
   return (
     <div className="profile-container">
